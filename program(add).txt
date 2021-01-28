@@ -1,0 +1,12 @@
+fun main(args: Array<String>) {
+       val firstnum = 100
+       val secondnum = 200
+       val sum = firstnum + secondnum
+       println("sum = $sum")
+       val difference = secondnum - firstnum
+       println("difference = $difference")
+       val multiplication = firstnum * secondnum
+       println("multiplication = $multiplication)
+       val division = secondnum/firstnum
+       println("division = $division)
+}
